@@ -1,0 +1,10 @@
+ 1) How does actually Smart Contracts Work?
+
+Ans - Smart Contracts are executing programs that are store in blockchain network such as ethereum .
+They operate as decentralized such as etherium . They Operate as decentralized applications that can automate the negotiation 
+and enforcement of rules and agreements between parties . 
+
+When a smart contract is created , it is compiled into bytecode and deployed to the blockchain . 
+The code is then stored in a contract account , which has a unique address on the blockchain 
+once deployed the contract is immutable meaning that its code and logic cannot be changed .
+
